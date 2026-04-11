@@ -1,4 +1,4 @@
-# Expense Report Review Calculator
+# expense-report-review-calculator
 
 A Microsoft Excel tool for financial reviewers to calculate expense report totals. Default currency is USD.
 
