@@ -9,6 +9,8 @@
 
 A Microsoft Excel tool for financial reviewers to calculate expense report totals. Default currency is USD.
 
+---
+
 ## Cell Tags
 
 The spreadsheet uses the following tags to guide input:
@@ -17,6 +19,8 @@ The spreadsheet uses the following tags to guide input:
 - **USER INPUT REQUIRED:** Enter data in the adjacent column or row.
 - **AUTO CALCULATION:** No input needed. The formula handles the calculation.
 - **OPTIONAL FIELD:** Space for additional notes.
+
+---
 
 ## License
 
