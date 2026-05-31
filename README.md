@@ -1,5 +1,12 @@
 # expense-report-review-calculator
 
+[![Link Check](https://github.com/hihipy/expense-report-review-calculator/actions/workflows/links.yml/badge.svg)](https://github.com/hihipy/expense-report-review-calculator/actions/workflows/links.yml)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+**Built with**
+
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+
 A Microsoft Excel tool for financial reviewers to calculate expense report totals. Default currency is USD.
 
 ## Cell Tags
